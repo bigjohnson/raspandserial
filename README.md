@@ -21,4 +21,4 @@ The photos showes both installed connector but you can use only one at time, not
 
 THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE. 
 
-![Demo](https://github.com/bigjohnson/raspandserial/blob/master/raspimagnetic1g?raw=true)
+![Demo](https://github.com/bigjohnson/raspandserial/blob/master/raspimagnetic1g.png?raw=true)
