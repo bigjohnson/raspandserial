@@ -1,7 +1,7 @@
 # raspandserial
 Raspberry pi serial and rs232 console 
 
-##Schematic to connect the Raspberry Pi GPIO serial port to a pc with rs232 interface.
+## Schematic to connect the Raspberry Pi GPIO serial port to a pc with rs232 interface.
 
 The schema use a DCE configuration, with female connector, if you want a DTE you can use a male connector and exchange pin 2 and 3.
 
